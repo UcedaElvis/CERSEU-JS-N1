@@ -1,4 +1,5 @@
 // Tipos primitivos
+
 // number 
 40
 //string

@@ -2,7 +2,7 @@
 // que realizaran una tarea o un calculo con ciertos valores
 
 //tenemos dos tipos de funciones en js, function declarativa y la expresion de funcion
-//el nombre reservado de funciton y parametros re qu recibiran la funcion
+//el nombre reservado de funciton y parametros que recibiran la funcion
 
 function miFuncion(){
     return 3

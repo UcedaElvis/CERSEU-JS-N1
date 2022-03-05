@@ -1,8 +1,8 @@
 //Hoisting es cuando las declaraciones de variables y funciones se procesan antes de ejecutar cualquier codigo
 //al momento de qque se genere el hoisting, las funciones se declaran primero, y despues las variables
 
-//Qué resultado esperas que nos aparezaca si corremos este ejemplo;
-//error o undefine
+//Qué resultado esperas que nos aparezca si corremos este ejemplo;
+//error o undefined
 
 console.log(miNombre);
 var miNombre="Enrique";
@@ -11,7 +11,7 @@ var miNombre="Enrique";
 
 var miNombre = undefined;
 console.log(miNombre + " soy hoisting");
-miNombre="Enrique"
+miNombre="Enrique";
 
 //===Hoisting con funciones===
 
@@ -28,3 +28,4 @@ function hey(){ //la funcion se declara hasta arriba, y despues se declaran las 
 var miNombre;
 hey();
 miNombre = 'Enrique';
+

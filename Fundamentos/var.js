@@ -4,7 +4,7 @@
 
 var nombre="Enrique"; // nombre apuntara en algun lugar de memoria,
 // pero dira la señal de = tomar ese string y lo guardara en ese lugar
-// y siqueremos utilizar la variable nombre para pedir cual es su valor
+// y si queremos utilizar la variable nombre para pedir cual es su valor
 
 // = es igual a operador de asignacion
 
