@@ -34,7 +34,7 @@ function pcJuega() {
 let jugadorElige;
 let pcElige;
 
-for (let i = 0; 1 < 2; i++){
+for (let i = 0; 1 < 5; i++){
     console.log(jugar(jugadorElige, pcElige));
 }
 
