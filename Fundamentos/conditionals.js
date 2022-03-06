@@ -61,18 +61,20 @@ var resultado = numero === 2 ? 'Si soy un uno' : 'No soy un uno';
 console.log(resultado);
 
 /***************  RETO 1*****************/
-// var papel = 'papel'
-// var tijera = 'tijera'
-// var piedra = 'piedra'
-// function jugar(){
-//     if(){
+var papel = 'papel'
+var tijera = 'tijera'
+var piedra = 'piedra'
+function jugar(jugador, computadora){
+    
+    // si jugador es el ganador
+    if(jugador ==="papel" && computadora ===){
 
-//     }else if(){
+    }else if(){
 
-//     } else {
+    } else {
 
-//     }
-// }
+    }
+}
 
 
 
