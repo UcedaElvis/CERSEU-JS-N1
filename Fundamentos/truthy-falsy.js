@@ -30,7 +30,7 @@ true
 Boolean({nombre:'enrique',edad:25})
 true
 
-//Para que podemos utilizar esto: para generar condiciones segun el valor que le damos
+//Para que podemos utilizar esto? para generar condiciones segun el valor que le damos
 
 if(InputEvent.value){
    // ...

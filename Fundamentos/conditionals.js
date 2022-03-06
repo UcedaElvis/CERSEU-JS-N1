@@ -32,12 +32,12 @@ var edad= 18;
 var accion;
 
 if(edad===18){
-    accion= 'Puedes votar, será tu primera votación'
+    accion= 'Puedes votar, será tu primera votación';
 } else if(edad>18){
-    accion = 'Puedes votar'
+    accion = 'Puedes votar';
 } else{
-    accion = 'Aun no puedes votar'
-}
+    accion = 'Aún no puedes votar';
+};
 
 console.log(accion);
 
@@ -48,9 +48,9 @@ var numero = 1;
 var resultado;
 
 if(numero===1){
-    resultado='Si soy un uno'
+    resultado='Si soy un uno';
 } else {
-    resultado = 'No soy un uno'
+    resultado = 'No soy un uno';
 }
 
 // condicion ? true : false
